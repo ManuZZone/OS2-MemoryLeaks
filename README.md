@@ -1,13 +1,13 @@
 # Infinity
 
-activities/ViewImageOrGifActivity.java :151
-activities/ViewPostDetailActivity.java :155
-fragments/ViewRedditGalleryOrGifFragment.java :128
+activities/ViewImageOrGifActivity.java :151 <br>
+activities/ViewPostDetailActivity.java :155 <br>
+fragments/ViewRedditGalleryOrGifFragment.java :128 <br>
 
 # Barinsta
 
-fragments/main/ProfileFragment.kt :352
+fragments/main/ProfileFragment.kt :352 <br>
 
 # Medicine
 
-addmedicine/AddMedicineFragment.java :394
+addmedicine/AddMedicineFragment.java :394 <br>
